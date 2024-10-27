@@ -1,0 +1,12 @@
+div
+{
+    height: 400px;
+    width: 550px;
+    background-color: rgba(0, 128, 0, 0.632);
+    margin: 10px auto;
+    background-image: url("Wallpaper\ 2.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+
+}

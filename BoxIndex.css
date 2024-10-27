@@ -1,0 +1,31 @@
+div
+{
+    height: 200px;
+    width: 400px;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: black; */
+    border: 4px solid purple;
+    background-color: pink;
+    border-radius: 15px;
+    /* padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px; */
+    padding: 20px 20px 30px 40px;
+    margin-bottom: 20px;
+}
+h1
+{
+    border-color: plum;
+    border-style: dashed;
+    border-width: 2px;
+}
+button
+{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: beige;
+}
